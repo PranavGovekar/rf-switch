@@ -1,6 +1,7 @@
 # rf-switch
 
 Python library for controlling two **H6P-330127 SP6T RF switches** via an Arduino Nano Every.
+Flash the Arduino with `RF_switch_control.ino` before using this library.
 
 ---
 
