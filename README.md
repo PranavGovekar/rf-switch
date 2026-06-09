@@ -9,7 +9,7 @@ Python library for controlling two **H6P-330127 SP6T RF switches** via an Arduin
 Install from GitHub:
 
 ```bash
-pip install git+https://github.com/yourusername/rf-switch.git
+pip install git+https://github.com/PranavGovekar/rf-switch.git
 ```
 
 **Requires:** Python 3.8+, `pyserial` (installed automatically)
@@ -138,7 +138,3 @@ for p in serial.tools.list_ports.comports():
 On Linux the Nano Every typically appears as `/dev/ttyACM0`.
 
 ---
-
-## License
-
-MIT
